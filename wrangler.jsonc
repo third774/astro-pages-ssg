@@ -1,0 +1,7 @@
+{
+  "name": "astro-ssg-project",
+  "compatibility_date": "2025-08-28",
+  "assets": {
+    "directory": "dist"
+  }
+}
