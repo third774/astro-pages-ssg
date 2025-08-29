@@ -1,5 +1,5 @@
 {
-  "name": "astro-ssg-project",
+  "name": "astro-pages-converted-to-workers",
   "compatibility_date": "2025-08-28",
   "assets": {
     "directory": "dist"
